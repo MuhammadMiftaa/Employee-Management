@@ -9,7 +9,7 @@ export default function ProfileComponents() {
         alt=""
         data-aos="fade-up"
         data-aos-duration="1000"
-        data-aos-delay="1000"
+        data-aos-delay="700"
       />
       <div className="profile">
         <h3

@@ -17,11 +17,13 @@ export default function InnovativeComponents() {
         >
           <Card.Body>
             <Card.Title className="card-num">01</Card.Title>
-            <Card.Title className="card-title">Card Title</Card.Title>
+            <Card.Title className="card-title">
+              Best Development Methodologies
+            </Card.Title>
             <Card.Text className="card-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
-              voluptates repellat tempora obcaecati, quisquam veritatis
-              similique dolorem iste fugiat quae!
+              We implement the best development methodologies, such as Agile or
+              DevOps, to ensure efficiency and high quality in every stage of
+              software development.
             </Card.Text>
           </Card.Body>
         </Card>
@@ -33,11 +35,13 @@ export default function InnovativeComponents() {
         >
           <Card.Body>
             <Card.Title className="card-num">02</Card.Title>
-            <Card.Title className="card-title">Card Title</Card.Title>
+            <Card.Title className="card-title">
+              Flexibility and Scalability
+            </Card.Title>
             <Card.Text className="card-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
-              voluptates repellat tempora obcaecati, quisquam veritatis
-              similique dolorem iste fugiat quae!
+              Our products are designed with the principles of flexibility and
+              scalability, allowing them to be customized to the evolving needs
+              of businesses and to handle company growth.
             </Card.Text>
           </Card.Body>
         </Card>
@@ -49,11 +53,13 @@ export default function InnovativeComponents() {
         >
           <Card.Body>
             <Card.Title className="card-num">03</Card.Title>
-            <Card.Title className="card-title">Card Title</Card.Title>
+            <Card.Title className="card-title">
+              Continuous Innovation
+            </Card.Title>
             <Card.Text className="card-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
-              voluptates repellat tempora obcaecati, quisquam veritatis
-              similique dolorem iste fugiat quae!
+              We continually research and develop to introduce new innovative
+              features in our products. We are committed to being leaders in the
+              industry by continuously innovating.
             </Card.Text>
           </Card.Body>
         </Card>
@@ -65,11 +71,13 @@ export default function InnovativeComponents() {
         >
           <Card.Body>
             <Card.Title className="card-num">04</Card.Title>
-            <Card.Title className="card-title">Card Title</Card.Title>
+            <Card.Title className="card-title">
+              Strategic Partnerships and Collaborations
+            </Card.Title>
             <Card.Text className="card-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
-              voluptates repellat tempora obcaecati, quisquam veritatis
-              similique dolorem iste fugiat quae!
+              We build strategic partnerships with clients and business partners
+              to create better solutions together. Collaboration is the key to
+              our success.
             </Card.Text>
           </Card.Body>
         </Card>
